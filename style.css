@@ -4,7 +4,6 @@
 --botao-azul:#167BF7;
 --cor-de-fundo:#00030C;
 
-
 }
 body{
 background-color: var(--cor-de-fundo);
@@ -22,10 +21,14 @@ background-image: url(Background.png);
 background-repeat: no-repeat;
 background-size: contain;
 
-
 }
 .container{
 height: 100vh;
 
+}
+
+.container_botao{
+    background-color: var(--botao-azul);
+    border-radius: 10px;
 }
 
