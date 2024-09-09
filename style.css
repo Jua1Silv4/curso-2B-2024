@@ -23,9 +23,9 @@ body {
 .principal {
     background-image: url("Background.png");#imagem como plano de fundo
     background-repeat: no-repeat;#nao repetir o imagem
-    background-size: contain;#
-    align-items: center;
-    text-align: center;
+    background-size: contain;#ele coloca nao repete a imagem
+    align-items: center;#item que se alinham ao centro 
+    text-align: center;#os textos que se alinham ao centro
 }
 
 .container {
